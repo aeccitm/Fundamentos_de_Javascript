@@ -29,6 +29,7 @@ Operadores
 
 Link de las clases:
 
-clase 1:
+clase 1: https://youtu.be/TEMLo_YWQcI
 
-clase 2:
+
+clase 2: https://youtu.be/hhJN7fiMWOI
