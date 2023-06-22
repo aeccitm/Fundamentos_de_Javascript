@@ -6,15 +6,25 @@ JavaScript es un lenguaje de programación multiplataforma orientado a objetos q
 Aqui vas a aprender: 
 
 Javascript (Fundamentos)
+
 ¿Cómo agregamos JS?
+
 Palabras reservadas
+
 Orden de ejecución
+
 Consola
+
 Tipos de datos
+
 Variables
+
 Practica variables
+
 Concatenación
+
 Prompt()
+
 Operadores
 
 Link de las clases:
