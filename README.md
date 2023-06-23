@@ -36,3 +36,9 @@ clase 2: https://youtu.be/hhJN7fiMWOI
 
 
 clase 3: https://youtu.be/dhO1c2mhT6U
+
+
+clase 4: https://youtu.be/TntkFd4oYAc
+
+
+clase 5: https://youtu.be/KprtFSt8jBE
