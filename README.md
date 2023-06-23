@@ -33,3 +33,6 @@ clase 1: https://youtu.be/TEMLo_YWQcI
 
 
 clase 2: https://youtu.be/hhJN7fiMWOI
+
+
+clase 3: https://youtu.be/dhO1c2mhT6U
